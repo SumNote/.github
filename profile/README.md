@@ -1,3 +1,3 @@
 ## Introduction
 
-![판넬](https://github.com/SumNote/.github/assets/98332877/0b2e4e5c-8cb5-4ceb-8d55-b7564c5fb81c)
+![판넬](https://github.com/SumNote/.github/assets/98332877/a8e3dd93-9b29-4108-8259-8b4378a80b71)
