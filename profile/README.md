@@ -87,6 +87,8 @@ SumNote는 단순히 인공지능을 통해 장문의 글을 요약하는 여타
 </table>
 
 
+<br><br>
+
 ## 판넬
 
 <div align="center">
